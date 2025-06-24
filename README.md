@@ -39,5 +39,3 @@ requests
 2. Paste in each of the above (`requirements.txt`, `.replit`, `README.md`)
 3. Commit changes
 
-You’re officially locked, loaded, and launch-ready 💥  
-Want me to verify after you upload them?
