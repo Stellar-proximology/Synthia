@@ -20,6 +20,24 @@
 ## ⚙️ Requirements
 
 Install Python dependencies:
-
+python main.py
 ```bash
 pip install -r requirements.txt
+flask
+pandas
+numpy
+python-dateutil
+openai
+astronomia
+jinja2
+requests
+
+
+## 🚀 CREDITS
+
+1. On GitHub, click **"Add file → Create new file"**
+2. Paste in each of the above (`requirements.txt`, `.replit`, `README.md`)
+3. Commit changes
+
+You’re officially locked, loaded, and launch-ready 💥  
+Want me to verify after you upload them?
