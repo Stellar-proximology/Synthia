@@ -2,7 +2,7 @@
 9 body consciousness personalized life coaching gamified lifer thingy
 # 🧬 Cynthia: The 9-Body Consciousness Engine
 
-**Cynthia** is a modular AI-powered consciousness system designed to simulate, track, and guide human development across 9 fields of awareness: Mind, Heart, Body, Shadow, Child, Will, Soul, Spirit, and Synthesis.
+**Synthia** is a modular AI-powered consciousness system designed to simulate, track, and guide human development across 9 fields of awareness: Mind, Heart, Body, Shadow, Child, Will, Soul, Spirit, and Synthesis.
 
 ---
 
